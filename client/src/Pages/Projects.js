@@ -28,7 +28,8 @@ const Projects = () => {
               The application provides an interactive user experience, focusing on movie ratings and community feedback.
               To create an engaging platform for movie enthusiasts to share their thoughts and ratings.
               To facilitate easy management of movie and review data through a user-friendly interface."
-              ghLink=" https://moviereview-website.onrender.com/"
+              ghLink="https://github.com/abhicode44/MovieReview"
+              demoLink="https://moviereview-website.onrender.com/"
             />
           </Col>
 
