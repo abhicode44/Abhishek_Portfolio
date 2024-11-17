@@ -41,8 +41,7 @@ const Projects = () => {
               isBlog={false}
               title="Chat Application"
               description="The real-time chat application was designed to provide users with a seamless and responsive
-communication platform, ensuring instant messaging capabilities and maintaining a persistent chat
-history."
+              communication platform, ensuring instant messaging capabilities and maintaining a persistent chathistory."
               ghLink="https://github.com/abhicode44/Chat_Application"
               demoLink=" https://chat-application-website-live.onrender.com/"
             />
@@ -53,10 +52,9 @@ history."
               imgPath={bank}
               isBlog={false}
               title="Banking System"
-              description="Developed a comprehensive MERN stack banking system with role-based access for customers
-and bankers. Implemented secure authentication with token-based authorization, enabling
-customers to view and manage transactions while bankers oversee account details. Enhanced user
-interaction with deposit/withdrawal functionalities and balance validation. "
+              description="Developed a comprehensive MERN stack banking system with role-based access for customersand bankers.
+                           Implemented secure authentication with token-based authorization, enabling customers to view and manage transactions while bankers oversee account details. 
+                           Enhanced user interaction with deposit/withdrawal functionalities and balance validation."
               ghLink="https://github.com/abhicode44/system"
               demoLink="https://bank-system-app.onrender.com/"
             />
