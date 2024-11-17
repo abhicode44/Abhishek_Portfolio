@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../components/Projects/ProjectCard";
 
-import grocery from "../assests/projects/grocery_store.png";
+import movies from "../assests/projects/movies.png";
 import chat from "../assests/projects/chat.png";
 import bank from "../assests/projects/Bank.jpeg";
 
@@ -21,15 +21,14 @@ const Projects = () => {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={grocery}
+              imgPath={movies}
               isBlog={false}
-              title="Grocery Store Management"
-              description="Developed a three-tier web application for grocery store management, including product
-management and order tracking.
- Design the user interface for your grocery store management application. Implement responsive
-and user-friendly
-"
-              ghLink="https://github.com/abhicode44/Grocery_Store_Management"
+              title="🎬 Movie Review Application"
+              description="Developed a robust Movie Review Application using the MERN stack (MongoDB , Express.js, React.js, Node.js) that allows users to explore movies, read and submit reviews, and manage their content seamlessly. 
+              The application provides an interactive user experience, focusing on movie ratings and community feedback.
+              To create an engaging platform for movie enthusiasts to share their thoughts and ratings.
+              To facilitate easy management of movie and review data through a user-friendly interface."
+              ghLink=" https://moviereview-website.onrender.com/"
             />
           </Col>
 
