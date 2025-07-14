@@ -26,7 +26,7 @@ const Footer = () => {
             <ul className="footer-icons">
               <li className="social-icons">
                 <a
-                  href="https://github.com/19sajib"
+                  href="https://github.com/abhicode44"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -38,7 +38,7 @@ const Footer = () => {
              
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/19sajib/"
+                  href="https://www.linkedin.com/in/chudasama-abhishek/"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
